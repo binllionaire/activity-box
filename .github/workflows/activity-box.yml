@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: binllionaire
-          GIST_ID: d463c20f327334b4b11f324643360036
+          GIST_ID: 860aa368ad534136b8378b2fda4174f4
